@@ -1,0 +1,4 @@
+PyTorch = 1.7.0
+Python = 3.6
+Opencv = 3.4.4
+Cuda=10.2
